@@ -1,0 +1,1 @@
+digraph{ graph [label=years2016to2021, fontsize=34]; Sweden [style=filled,fillcolor=dodgerblue]; France [style=filled,fillcolor=darkslategray2]; Israel [style=filled,fillcolor=darkgoldenrod1]; Australia->Sweden [dir=both color=red penwidth=3 penwidth=3];France->Israel [dir=both color=red penwidth=3 penwidth=3];}
